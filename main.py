@@ -46,7 +46,7 @@ train_data_features = vectorizer.fit_transform(clean_train_headlines)
 # array
 np.asarray(train_data_features)
 
-# ******* Train a random forest using the bag of words
+# ******* Train a linear regressor using the bag of words
 #
 print "Training the linear regression model..."
 # Fit the Linear regression to the training set, using the bag of words as
