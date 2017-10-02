@@ -8,11 +8,6 @@ def GradientBoosting_Classifier(self,max_depth,min_samples_leaf, n_estimators,le
     cls =GradientBoostingClassifier(max_depth=max_depth, min_samples_leaf=min_samples_leaf,n_estimators=n_estimators,learning_rate=learning_rate,random_state=42)
     return cls
 
-def RandomForest_Classifier(self,n_estimators):
-    from sklearn.ensemble import RandomForestClassifier
-    cls = RandomForestClassifier(n_estimators = n_estimators)
-    return cls
-
 def SVC_Classifier():
     from sklearn.svm import SVC
     cls =  SVC(kernel='rbf', C=1.0, gamma='auto')

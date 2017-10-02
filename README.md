@@ -21,4 +21,11 @@ the steps from laoding data, preprocessing the training and test sets, applying 
             you can download them by typing nlkt.download() in your python3 console
 
 
+# Next ...
+ 
+* Test other bag of words models 
+* Test other supervised learning (linear, non linear) classifiers 
+* Evaluate the results (accuracy, recall and so on ...)
+* Conclude the best accuracy (and the why!)
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 

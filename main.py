@@ -87,6 +87,8 @@ with open('results/Bag_of_Words_model.json', 'w') as f:
 print "Wrote results to Bag_of_Words_model.json" 
 
 #Next steps : 
-#1: applying SVM, and Keras/LSTM and other methods if possible
-#2: Evaluate the results (accuracy, recall and mean MSE ...)
+#1: test other bag of words models 
+#1: test other supervised learning (linear, non linear) classifiers 
+#2: Evaluate the results (accuracy, recall and so on ...)
 #3: conclude the best accuracy (and the why!)
+#https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
