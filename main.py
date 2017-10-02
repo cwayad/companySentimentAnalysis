@@ -79,12 +79,12 @@ sentiments_pred = regr.predict(test_data_features)
 
 # Copy the results to a pandas dataframe with an "id" column and
 # a "sentiment" column
-output = pd.DataFrame( data={"Id":test["id"],"Company":test["company"], "Sentiment":sentiments_pred} )
+output = pd.DataFrame(data={"Id":test["id"],"Company":test["company"], "Sentiment":sentiments_pred} )
 
 # Use pandas to write the json output file
-output.to_json(os.path.join(os.path.dirname(__file__), 'results', 'Bag_of_Words_model.json'), orient='index')
+with open('results/Bag_of_Words_model.json', 'w') as f:
+	f.write(json.dumps(output.to_dict(orient='records'),indent=1))
 print "Wrote results to Bag_of_Words_model.json" 
-
 
 #Next steps : 
 #1: applying SVM, and Keras/LSTM and other methods if possible

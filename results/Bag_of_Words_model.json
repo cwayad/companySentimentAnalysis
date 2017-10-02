@@ -1,1 +1,2457 @@
-{"0":{"company":"Ashtead","id":1144,"sentiment":0.6181543501},"1":{"company":"Shell","id":1145,"sentiment":0.4232837844},"2":{"company":"Prudential","id":1146,"sentiment":-0.1813866642},"3":{"company":"GlaxoSmithKline","id":1147,"sentiment":-0.1186804149},"4":{"company":"Barclays","id":1148,"sentiment":-0.871576613},"5":{"company":"Diageo","id":1149,"sentiment":0.4149999976},"6":{"company":"Borealis Infrastructure","id":1150,"sentiment":0.2139999811},"7":{"company":"Burberry Group plc","id":1151,"sentiment":-0.1999928044},"8":{"company":"Deutsche Boerse","id":1152,"sentiment":-0.0272609267},"9":{"company":"Tesco PLC","id":1153,"sentiment":0.0603320099},"10":{"company":"AstraZeneca","id":1154,"sentiment":0.2580000336},"11":{"company":"Shire","id":1155,"sentiment":0.4446771177},"12":{"company":"Royal Mail","id":1156,"sentiment":-0.2649744749},"13":{"company":"Royal Mail","id":1157,"sentiment":-0.5173616357},"14":{"company":"ITV","id":1158,"sentiment":0.1244882197},"15":{"company":"AdeS","id":1159,"sentiment":0.2759999875},"16":{"company":"Barclays","id":1160,"sentiment":-0.2009974257},"17":{"company":"Morrisons","id":1161,"sentiment":-0.4083931497},"18":{"company":"Hargreaves Lansdown","id":1162,"sentiment":-0.100774184},"19":{"company":"MOVANTIK","id":1163,"sentiment":0.4165822575},"20":{"company":"EasyJet","id":1164,"sentiment":0.171886994},"21":{"company":"WPP","id":1165,"sentiment":0.2990000124},"22":{"company":"Old Mutual","id":1166,"sentiment":0.1797205885},"23":{"company":"Travis Perkins","id":1167,"sentiment":0.4362777479},"24":{"company":"AstraZeneca","id":1168,"sentiment":0.3280000311},"25":{"company":"Glencore","id":1169,"sentiment":0.5206424492},"26":{"company":"Acerta","id":1170,"sentiment":0.2840000382},"27":{"company":"Associated British Foods","id":1171,"sentiment":-0.4338877402},"28":{"company":"Pearson Jones","id":1172,"sentiment":0.1189716783},"29":{"company":"Bunzl","id":1173,"sentiment":0.2374036027},"30":{"company":"Goldman Sachs","id":1174,"sentiment":-0.0700000224},"31":{"company":"Morrisons","id":1175,"sentiment":-0.4519999829},"32":{"company":"Royal Mail","id":1176,"sentiment":-0.2739981998},"33":{"company":"Rolls-Royce","id":1177,"sentiment":0.318427971},"34":{"company":"HSBC","id":1178,"sentiment":-0.5510219276},"35":{"company":"Royal Bank of Scotland Group plc","id":1179,"sentiment":-0.1184742847},"36":{"company":"ZS Pharma","id":1180,"sentiment":0.5830001201},"37":{"company":"HSBC","id":1181,"sentiment":-0.2498606044},"38":{"company":"Standard Life","id":1182,"sentiment":-0.1723703446},"39":{"company":"Legal & General Group Plc","id":1183,"sentiment":0.5592677665},"40":{"company":"Glencore","id":1184,"sentiment":-0.0506323026},"41":{"company":"Morrisons","id":1185,"sentiment":0.3039330803},"42":{"company":"Tesco PLC","id":1186,"sentiment":0.1629422404},"43":{"company":"Petrofac","id":1187,"sentiment":-0.3371954628},"44":{"company":"Legal & General Group Plc","id":1188,"sentiment":0.3789999609},"45":{"company":"BG Group","id":1189,"sentiment":-0.344999993},"46":{"company":"Smiths Group","id":1190,"sentiment":0.0555887876},"47":{"company":"Aspen","id":1191,"sentiment":0.3949999453},"48":{"company":"Glencore","id":1192,"sentiment":-0.1258823241},"49":{"company":"Barclays","id":1193,"sentiment":-0.2077359374},"50":{"company":"EasyJet","id":1194,"sentiment":-0.1872365218},"51":{"company":"BP","id":1195,"sentiment":-0.4440000128},"52":{"company":"Barclays","id":1196,"sentiment":-0.3996590862},"53":{"company":"AB InBev","id":1197,"sentiment":-0.3211106238},"54":{"company":"Glencore","id":1198,"sentiment":0.3618058379},"55":{"company":"Old Mutual","id":1199,"sentiment":0.0214222573},"56":{"company":"Burberry","id":1200,"sentiment":0.1042476304},"57":{"company":"SABMiller","id":1201,"sentiment":-0.2877553884},"58":{"company":"Shell","id":1202,"sentiment":0.0544926156},"59":{"company":"Antofagasta","id":1203,"sentiment":-0.1431073506},"60":{"company":"CaixaBank","id":1204,"sentiment":-0.0920000512},"61":{"company":"AstraZeneca","id":1205,"sentiment":-0.0639999828},"62":{"company":"Standard Life","id":1206,"sentiment":0.1189716783},"63":{"company":"Aer Lingus","id":1207,"sentiment":0.3149999927},"64":{"company":"Pure Food","id":1208,"sentiment":0.075845239},"65":{"company":"BP","id":1209,"sentiment":-0.8720513857},"66":{"company":"BAT","id":1210,"sentiment":-0.1519999817},"67":{"company":"Kingfisher","id":1211,"sentiment":0.1959971557},"68":{"company":"BHP Billiton","id":1212,"sentiment":-0.4069714705},"69":{"company":"Chime Communications","id":1213,"sentiment":0.0512521436},"70":{"company":"BP","id":1214,"sentiment":0.2617414919},"71":{"company":"Barclays","id":1215,"sentiment":0.3085000288},"72":{"company":"JP Morgan","id":1216,"sentiment":-0.0000000275},"73":{"company":"BG Group","id":1217,"sentiment":-0.1164999943},"74":{"company":"Tesco PLC","id":1218,"sentiment":-0.0967696352},"75":{"company":"Petrofac","id":1219,"sentiment":0.5146442846},"76":{"company":"ShelL","id":1220,"sentiment":-0.1256465124},"77":{"company":"Lloyds Banking Group PLC","id":1221,"sentiment":-0.0368968149},"78":{"company":"Barclays","id":1222,"sentiment":-0.6028708357},"79":{"company":"Acerta","id":1223,"sentiment":-0.6854631734},"80":{"company":"M&G Investments","id":1224,"sentiment":-0.7819999863},"81":{"company":"Barclays","id":1225,"sentiment":0.8470000182},"82":{"company":"Kingfisher","id":1226,"sentiment":-0.0356837161},"83":{"company":"BP","id":1227,"sentiment":-1.0594774725},"84":{"company":"SABMiller","id":1228,"sentiment":-0.038225833},"85":{"company":"Aviva plc","id":1229,"sentiment":0.0208160985},"86":{"company":"AB InBev","id":1230,"sentiment":-0.1579999786},"87":{"company":"Standard Life","id":1231,"sentiment":-0.1496742906},"88":{"company":"Tesco PLC","id":1232,"sentiment":0.5818012707},"89":{"company":"Morrisons","id":1233,"sentiment":0.1987092436},"90":{"company":"BP","id":1234,"sentiment":-0.2461426984},"91":{"company":"Old Mutual","id":1235,"sentiment":0.3773522067},"92":{"company":"Johnson Matthey","id":1236,"sentiment":-0.4380000369},"93":{"company":"Berkshire Hathaway Inc.","id":1237,"sentiment":0.0229999423},"94":{"company":"Barclays","id":1238,"sentiment":0.275000028},"95":{"company":"Baxalta","id":1239,"sentiment":0.4869999431},"96":{"company":"AB InBev","id":1240,"sentiment":-0.2256556453},"97":{"company":"Morrisons","id":1241,"sentiment":0.1251118221},"98":{"company":"Persimmon","id":1242,"sentiment":0.7980237154},"99":{"company":"Standard Chartered PLC","id":1243,"sentiment":0.2586528611},"100":{"company":"Barclays","id":1244,"sentiment":0.5153243006},"101":{"company":"GlaxoSmithKline","id":1245,"sentiment":0.287977254},"102":{"company":"Credit Suisse","id":1246,"sentiment":-0.4054848436},"103":{"company":"Aberdeen Asset Management","id":1247,"sentiment":0.5885924007},"104":{"company":"Lloyds Banking Group PLC","id":1248,"sentiment":-0.0245259478},"105":{"company":"SABMiller","id":1249,"sentiment":0.1189999592},"106":{"company":"Legal & General Group Plc","id":1250,"sentiment":0.0634275633},"107":{"company":"Berkshire Hathaway Inc.","id":1251,"sentiment":-0.438969237},"108":{"company":"Tesco PLC","id":1252,"sentiment":-0.0565165341},"109":{"company":"Royal Mail","id":1253,"sentiment":-0.1757998784},"110":{"company":"G4S","id":1254,"sentiment":0.267581165},"111":{"company":"SABMiller","id":1255,"sentiment":-0.3400000254},"112":{"company":"Cairn Homes","id":1256,"sentiment":0.309132702},"113":{"company":"Standard Chartered PLC","id":1257,"sentiment":-0.2188064699},"114":{"company":"Blinkbox","id":1258,"sentiment":0.0603320099},"115":{"company":"BG Group","id":1259,"sentiment":-0.1813866642},"116":{"company":"AstraZeneca","id":1260,"sentiment":0.5159999851},"117":{"company":"Shell","id":1261,"sentiment":-0.2077215644},"118":{"company":"Smiths Group","id":1262,"sentiment":0.5682391579},"119":{"company":"Tesco PLC","id":1263,"sentiment":-0.4531162808},"120":{"company":"Barclays","id":1264,"sentiment":-0.2388026931},"121":{"company":"Ashtead","id":1265,"sentiment":-0.622383564},"122":{"company":"Dixons Carphone","id":1266,"sentiment":0.2950000383},"123":{"company":"San Miguel","id":1267,"sentiment":0.4085000067},"124":{"company":"Lehman","id":1268,"sentiment":0.3203776672},"125":{"company":"AB InBev","id":1269,"sentiment":0.3497175585},"126":{"company":"Financial Times","id":1270,"sentiment":0.2619999675},"127":{"company":"Berkshire Hathaway Inc.","id":1271,"sentiment":0.2884096308},"128":{"company":"Tesco PLC","id":1272,"sentiment":-0.0620738232},"129":{"company":"CRH","id":1273,"sentiment":0.1938105033},"130":{"company":"AB InBev","id":1274,"sentiment":0.3920000109},"131":{"company":"Rio Tinto","id":1275,"sentiment":0.6626062279},"132":{"company":"WWP","id":1276,"sentiment":0.1253587673},"133":{"company":"Standard Chartered","id":1277,"sentiment":-0.0000000038},"134":{"company":"Kingfisher","id":1278,"sentiment":-0.4707155055},"135":{"company":"Lloyds Banking Group PLC","id":1279,"sentiment":-0.4689564469},"136":{"company":"Standard Life","id":1280,"sentiment":-0.3138999363},"137":{"company":"London Stock Exchange Group","id":1281,"sentiment":0.0301425806},"138":{"company":"National Grid","id":1282,"sentiment":0.6022242451},"139":{"company":"Glencore","id":1283,"sentiment":0.2913104704},"140":{"company":"Standard Life","id":1284,"sentiment":-0.0245561506},"141":{"company":"Standard Chartered PLC","id":1285,"sentiment":0.3679477208},"142":{"company":"Glencore","id":1286,"sentiment":-0.1808322495},"143":{"company":"Ocwen","id":1287,"sentiment":-0.4281346135},"144":{"company":"Shell","id":1288,"sentiment":0.1439012813},"145":{"company":"ARM Holdings plc","id":1289,"sentiment":0.0314999914},"146":{"company":"Tesco","id":1290,"sentiment":0.0498016868},"147":{"company":"Glencore","id":1291,"sentiment":0.2256257943},"148":{"company":"Royal Bank of Scotland Group plc","id":1292,"sentiment":-0.1630401091},"149":{"company":"Volkswagen","id":1293,"sentiment":-0.2683085462},"150":{"company":"AstraZeneca","id":1294,"sentiment":0.3299998884},"151":{"company":"Shire","id":1295,"sentiment":0.2797554095},"152":{"company":"ExxonMobil","id":1296,"sentiment":-0.2106370228},"153":{"company":"AXA","id":1297,"sentiment":0.1480001258},"154":{"company":"Randgold Resources","id":1298,"sentiment":0.0588389894},"155":{"company":"Tesco PLC","id":1299,"sentiment":-0.2437163352},"156":{"company":"Lloyds Banking Group PLC","id":1300,"sentiment":0.0877087203},"157":{"company":"Tesco PLC","id":1301,"sentiment":-0.1807377243},"158":{"company":"Wolseley","id":1302,"sentiment":0.0787123206},"159":{"company":"Juno","id":1303,"sentiment":0.1408896715},"160":{"company":"Bloomberg","id":1304,"sentiment":-0.0517808487},"161":{"company":"Berkshire Hathaway Inc.","id":1305,"sentiment":0.1802772334},"162":{"company":"Unilever","id":1306,"sentiment":0.6948047589},"163":{"company":"AstraZeneca","id":1307,"sentiment":0.0825192704},"164":{"company":"IBM","id":1308,"sentiment":0.3359999939},"165":{"company":"BP","id":1309,"sentiment":-0.803518601},"166":{"company":"Direct Line Insurance Group PLC","id":1310,"sentiment":0.3888897533},"167":{"company":"SABMiller","id":1311,"sentiment":-0.2256556453},"168":{"company":"SABMiller","id":1312,"sentiment":0.2827992878},"169":{"company":"Whitbread","id":1313,"sentiment":-0.0419122427},"170":{"company":"BG Group","id":1314,"sentiment":0.2500007154},"171":{"company":"EasyJet","id":1315,"sentiment":0.1682057342},"172":{"company":"Morrisons","id":1316,"sentiment":-0.3961560025},"173":{"company":"BP","id":1317,"sentiment":-0.0954609433},"174":{"company":"Lidl","id":1318,"sentiment":0.4337500101},"175":{"company":"Prudential","id":1319,"sentiment":0.2931378086},"176":{"company":"Pearson","id":1320,"sentiment":-0.1624042596},"177":{"company":"Standard Life","id":1321,"sentiment":-0.1096231637},"178":{"company":"BP","id":1322,"sentiment":-0.6508551883},"179":{"company":"Banco BPI","id":1323,"sentiment":0.2136331777},"180":{"company":"Berkshire Hathaway Inc.","id":1324,"sentiment":-0.1640236768},"181":{"company":"AstraZeneca","id":1325,"sentiment":0.3170000083},"182":{"company":"Tesco PLC","id":1326,"sentiment":0.2367153631},"183":{"company":"ITV","id":1327,"sentiment":0.1153676604},"184":{"company":"Royal Mail","id":1328,"sentiment":-0.1749493237},"185":{"company":"Shire","id":1329,"sentiment":-0.0890979392},"186":{"company":"National Grid","id":1330,"sentiment":0.4520236184},"187":{"company":"Samarco","id":1331,"sentiment":-0.2850000294},"188":{"company":"Kinder Morgan","id":1332,"sentiment":0.1889999887},"189":{"company":"Weir Group","id":1333,"sentiment":-0.0675072526},"190":{"company":"Tesco PLC","id":1334,"sentiment":-0.2584977189},"191":{"company":"Royal Bank of Scotland Group plc","id":1335,"sentiment":-0.0921130424},"192":{"company":"Tesco PLC","id":1336,"sentiment":0.0595468261},"193":{"company":"Aviva plc","id":1337,"sentiment":-0.0749755898},"194":{"company":"Glencore","id":1338,"sentiment":-0.1184480387},"195":{"company":"Aviva","id":1339,"sentiment":0.1999998568},"196":{"company":"Acerta","id":1340,"sentiment":0.3720000198},"197":{"company":"Halfords","id":1341,"sentiment":0.0457014003},"198":{"company":"HSBC","id":1342,"sentiment":-0.2105790844},"199":{"company":"ITV","id":1343,"sentiment":-0.0711234874},"200":{"company":"Wells Fargo","id":1344,"sentiment":0.3140001138},"201":{"company":"BP","id":1345,"sentiment":0.4477041387},"202":{"company":"Standard Chartered PLC","id":1346,"sentiment":-0.1630399503},"203":{"company":"Barclays","id":1347,"sentiment":-0.2934798686},"204":{"company":"AstraZeneca","id":1348,"sentiment":0.3260000545},"205":{"company":"Amazon","id":1349,"sentiment":0.3889999626},"206":{"company":"BT Group","id":1350,"sentiment":-0.1213835554},"207":{"company":"Royal Mail","id":1351,"sentiment":-0.2244856582},"208":{"company":"Tesco PLC","id":1352,"sentiment":0.0021408956},"209":{"company":"Daiichi Sankyo","id":1353,"sentiment":0.4165822575},"210":{"company":"Royal Bank of Scotland Group plc","id":1354,"sentiment":-0.2319131049},"211":{"company":"Deutsche Boerse","id":1355,"sentiment":0.3580000746},"212":{"company":"HSBC","id":1356,"sentiment":-0.4311419872},"213":{"company":"Direct Line Insurance Group PLC","id":1357,"sentiment":0.3239999893},"214":{"company":"AstraZeneca","id":1358,"sentiment":0.3690000376},"215":{"company":"Standard Life","id":1359,"sentiment":-0.1594575564},"216":{"company":"Samarco","id":1360,"sentiment":-0.0360308511},"217":{"company":"Persimmon","id":1361,"sentiment":0.2111351735},"218":{"company":"Royal Mail","id":1362,"sentiment":-0.0261954343},"219":{"company":"Glencore","id":1363,"sentiment":-0.1045546331},"220":{"company":"AstraZeneca","id":1364,"sentiment":0.1057248544},"221":{"company":"Meggitt","id":1365,"sentiment":-0.4484480117},"222":{"company":"Royal Mail","id":1366,"sentiment":-0.3731041795},"223":{"company":"BP","id":1367,"sentiment":-0.401500023},"224":{"company":"Springleaf","id":1368,"sentiment":0.2829999999},"225":{"company":"Centrica PLC","id":1369,"sentiment":-0.3919246808},"226":{"company":"Morrisons","id":1370,"sentiment":0.306262377},"227":{"company":"Asahi","id":1371,"sentiment":0.6172455392},"228":{"company":"Old Mutual","id":1372,"sentiment":0.1058980466},"229":{"company":"Rio Tinto","id":1373,"sentiment":-0.0570484979},"230":{"company":"RBS","id":1374,"sentiment":-0.0868075591},"231":{"company":"Germanwings","id":1375,"sentiment":0.095999983},"232":{"company":"Glencore","id":1376,"sentiment":0.2832611209},"233":{"company":"Dixons Carphone","id":1377,"sentiment":-0.3776938937},"234":{"company":"Bunzl","id":1378,"sentiment":-0.0423030361},"235":{"company":"Standard Chartered","id":1379,"sentiment":-0.5075408533},"236":{"company":"Glencore","id":1380,"sentiment":-0.0784364635},"237":{"company":"BHP Billiton","id":1381,"sentiment":-0.3764434041},"238":{"company":"Admiral Group plc","id":1382,"sentiment":0.3239999893},"239":{"company":"Friends Life","id":1383,"sentiment":0.1889999802},"240":{"company":"Royal Dutch Shell","id":1384,"sentiment":0.6071835222},"241":{"company":"Shell","id":1385,"sentiment":-0.4510000398},"242":{"company":"AstraZeneca","id":1386,"sentiment":0.4165822575},"243":{"company":"MillerCoors","id":1387,"sentiment":0.0692686903},"244":{"company":"Morrisons","id":1388,"sentiment":-0.0273090877},"245":{"company":"AstraZeneca","id":1389,"sentiment":0.309566376},"246":{"company":"Johnson Matthey","id":1390,"sentiment":0.2859999582},"247":{"company":"Prudential","id":1391,"sentiment":0.475156963},"248":{"company":"MillerCoors","id":1392,"sentiment":0.788926436},"249":{"company":"Volkswagen","id":1393,"sentiment":0.0137282304},"250":{"company":"Standard Chartered PLC","id":1394,"sentiment":-0.6493387652},"251":{"company":"BG Group","id":1395,"sentiment":-0.2660000303},"252":{"company":"London Stock Exchange Group","id":1396,"sentiment":-0.0272609267},"253":{"company":"Whitbread","id":1397,"sentiment":0.075845239},"254":{"company":"Yorkshire","id":1398,"sentiment":0.2989999474},"255":{"company":"ICE","id":1399,"sentiment":0.3279999808},"256":{"company":"LloydsPharmacy","id":1400,"sentiment":0.2339999996},"257":{"company":"Aviva plc","id":1401,"sentiment":0.1557335872},"258":{"company":"Shire","id":1402,"sentiment":0.2689998921},"259":{"company":"Royal Mail","id":1403,"sentiment":-0.0584938802},"260":{"company":"Shell","id":1404,"sentiment":-0.4546518029},"261":{"company":"Barclays","id":1405,"sentiment":-0.3541941786},"262":{"company":"Johnson Matthey","id":1406,"sentiment":-0.3870664619},"263":{"company":"AstraZeneca","id":1407,"sentiment":0.2560702626},"264":{"company":"Britvic","id":1408,"sentiment":0.2353844225},"265":{"company":"Sainsbury's","id":1409,"sentiment":-0.8511751599},"266":{"company":"BP","id":1410,"sentiment":-0.0181457772},"267":{"company":"Standard Chartered","id":1411,"sentiment":-0.5359999369},"268":{"company":"Morrisons","id":1412,"sentiment":0.0104236892},"269":{"company":"Royal Bank of Scotland","id":1413,"sentiment":0.2500000328},"270":{"company":"Persimmon","id":1414,"sentiment":0.5243731106},"271":{"company":"Kingfisher","id":1415,"sentiment":0.6464226266},"272":{"company":"Lloyds Banking Group PLC","id":1416,"sentiment":-0.0293733436},"273":{"company":"AstraZeneca","id":1417,"sentiment":0.314300004},"274":{"company":"Deutsche Boerse","id":1418,"sentiment":0.4060000131},"275":{"company":"Sainsbury's","id":1419,"sentiment":-0.1015446189},"276":{"company":"AstraZeneca","id":1420,"sentiment":0.5909445036},"277":{"company":"Baxalta","id":1421,"sentiment":0.2301758197},"278":{"company":"Costa","id":1422,"sentiment":-0.5619999836},"279":{"company":"AstraZeneca","id":1423,"sentiment":0.2574598244},"280":{"company":"Glencore","id":1424,"sentiment":-0.6168001555},"281":{"company":"Royal Mail","id":1425,"sentiment":0.0375951912},"282":{"company":"Berkshire Hathaway","id":1426,"sentiment":0.0979364618},"283":{"company":"ZS Pharma","id":1427,"sentiment":0.5509997481},"284":{"company":"Weir Group","id":1428,"sentiment":0.4889851696},"285":{"company":"AstraZeneca","id":1429,"sentiment":0.528889054},"286":{"company":"Tesco PLC","id":1430,"sentiment":0.1289197049},"287":{"company":"Rio Tinto","id":1431,"sentiment":0.3363575092},"288":{"company":"Cypress Semiconductor","id":1432,"sentiment":0.4610000043},"289":{"company":"Barclays","id":1433,"sentiment":-0.5656434804},"290":{"company":"Comcast","id":1434,"sentiment":0.6110000145},"291":{"company":"InterContinental Hotels Group","id":1435,"sentiment":-0.0779999425},"292":{"company":"Tesco PLC","id":1436,"sentiment":-0.7280943782},"293":{"company":"Intertek Group","id":1437,"sentiment":-0.1960003286},"294":{"company":"Shell","id":1438,"sentiment":0.0840000318},"295":{"company":"Royal Bank of Scotland Group plc","id":1439,"sentiment":0.4077986732},"296":{"company":"CR Laurence","id":1440,"sentiment":0.1938105033},"297":{"company":"Direct Line Insurance Group PLC","id":1441,"sentiment":0.276031434},"298":{"company":"BAE Systems","id":1442,"sentiment":-0.10523339},"299":{"company":"AstraZeneca","id":1443,"sentiment":0.1891877582},"300":{"company":"Shell","id":1444,"sentiment":-0.5640000396},"301":{"company":"AB InBev","id":1445,"sentiment":0.2679999788},"302":{"company":"WPP","id":1446,"sentiment":-0.1545402461},"303":{"company":"Royal Bank of Scotland Group plc","id":1447,"sentiment":-1.2991967535},"304":{"company":"Reed Elsevier","id":1448,"sentiment":-0.123577913},"305":{"company":"L&G","id":1449,"sentiment":0.3707430326},"306":{"company":"CaixaBank","id":1450,"sentiment":0.2210000051},"307":{"company":"Barclays","id":1451,"sentiment":0.3982944138},"308":{"company":"Legal & General Group Plc","id":1452,"sentiment":0.1128584472},"309":{"company":"ITV","id":1453,"sentiment":-0.5867396038},"310":{"company":"ConAgra","id":1454,"sentiment":0.0999999973},"311":{"company":"AB InBev","id":1455,"sentiment":0.1970000521},"312":{"company":"London Stock Exchange Group","id":1456,"sentiment":0.122840213},"313":{"company":"Glencore","id":1457,"sentiment":0.1293698458},"314":{"company":"Land Securities","id":1458,"sentiment":0.2975892666},"315":{"company":"Glencore","id":1459,"sentiment":-0.5085061658},"316":{"company":"Glencore","id":1460,"sentiment":-0.3795826801},"317":{"company":"Krispy Kreme","id":1461,"sentiment":0.0498016868},"318":{"company":"Amazon","id":1462,"sentiment":0.4283157627},"319":{"company":"Lloyds Banking Group PLC","id":1463,"sentiment":-0.2204306383},"320":{"company":"HSBC","id":1464,"sentiment":-0.0379217172},"321":{"company":"Johnson Matthey","id":1465,"sentiment":-0.170155115},"322":{"company":"AstraZeneca","id":1466,"sentiment":0.4680000962},"323":{"company":"J Sainsbury plc","id":1467,"sentiment":-0.5789999936},"324":{"company":"Tesco PLC","id":1468,"sentiment":-0.7106087454},"325":{"company":"Daiichi Sankyo","id":1469,"sentiment":0.3690000376},"326":{"company":"Barclays","id":1470,"sentiment":-0.5280043963},"327":{"company":"Old Mutual","id":1471,"sentiment":0.1546479133},"328":{"company":"BP","id":1472,"sentiment":-0.2419999731},"329":{"company":"Centrica PLC","id":1473,"sentiment":0.5099651377},"330":{"company":"Royal Bank of Scotland Group plc","id":1474,"sentiment":-0.5033346422},"331":{"company":"AstraZeneca","id":1475,"sentiment":0.1302990457},"332":{"company":"WWP","id":1476,"sentiment":-0.1660891765},"333":{"company":"EasyJet","id":1477,"sentiment":0.2968360931},"334":{"company":"Smiths Group","id":1478,"sentiment":-0.1355084497},"335":{"company":"Gazprom","id":1479,"sentiment":0.2015000468},"336":{"company":"BHP Billiton","id":1480,"sentiment":-0.5839999588},"337":{"company":"Barclays","id":1481,"sentiment":-0.1886161997},"338":{"company":"SunRay","id":1482,"sentiment":-0.1238113491},"339":{"company":"Aberdeen Asset Management","id":1483,"sentiment":0.0315844198},"340":{"company":"United Utilities","id":1484,"sentiment":0.1306781003},"341":{"company":"BHP Billiton","id":1485,"sentiment":0.2090000329},"342":{"company":"Standard Chartered PLC","id":1486,"sentiment":-0.0360859941},"343":{"company":"Tesco","id":1487,"sentiment":0.2600000159},"344":{"company":"Tesco PLC","id":1488,"sentiment":0.3787588398},"345":{"company":"Great Portland Estates plc","id":1489,"sentiment":0.1295000482},"346":{"company":"Zurich Insurance","id":1490,"sentiment":0.3759999966},"347":{"company":"RBS","id":1491,"sentiment":0.3530000514},"348":{"company":"Shell","id":1492,"sentiment":-0.6337865805},"349":{"company":"Imperial Tobacco","id":1493,"sentiment":-0.0910824971},"350":{"company":"Deutsche Telekom","id":1494,"sentiment":0.1573603998},"351":{"company":"Takeda","id":1495,"sentiment":0.3716923122},"352":{"company":"ARM Holdings plc","id":1496,"sentiment":0.0728853293},"353":{"company":"Aviva plc","id":1497,"sentiment":0.1834999828},"354":{"company":"Glencore","id":1498,"sentiment":0.1266649239},"355":{"company":"Intertain","id":1499,"sentiment":0.3050541233},"356":{"company":"Dixons Carphone","id":1500,"sentiment":0.4401463179},"357":{"company":"Barclays","id":1501,"sentiment":0.4520000404},"358":{"company":"AstraZeneca","id":1502,"sentiment":0.1777433901},"359":{"company":"Morrissons","id":1503,"sentiment":-0.4188412221},"360":{"company":"Barclays","id":1504,"sentiment":-0.5033346422},"361":{"company":"BHP","id":1505,"sentiment":-0.0612896453},"362":{"company":"Carnival Corporation","id":1506,"sentiment":-0.07786964},"363":{"company":"Wilshire Bancorp","id":1507,"sentiment":0.4929999711},"364":{"company":"Heinz","id":1508,"sentiment":0.2140000354},"365":{"company":"HSBC","id":1509,"sentiment":0.022050985},"366":{"company":"Unilever","id":1510,"sentiment":-0.0994437966},"367":{"company":"Citigroup","id":1511,"sentiment":0.2829999999},"368":{"company":"Tesco PLC","id":1512,"sentiment":-0.2453333262},"369":{"company":"Shell","id":1513,"sentiment":-0.1439125146},"370":{"company":"Sainsbury's","id":1514,"sentiment":-0.0749531256},"371":{"company":"Old Mutual","id":1515,"sentiment":0.8241963494},"372":{"company":"Tesco PLC","id":1516,"sentiment":0.8280448831},"373":{"company":"BP","id":1517,"sentiment":0.2398690089},"374":{"company":"Barclays","id":1518,"sentiment":-0.2593358479},"375":{"company":"Barclays","id":1519,"sentiment":-0.2025776584},"376":{"company":"BP","id":1520,"sentiment":-0.0568564121},"377":{"company":"Tesco","id":1521,"sentiment":0.1253587673},"378":{"company":"Tesco PLC","id":1522,"sentiment":-0.1243469183},"379":{"company":"BHP Billiton","id":1523,"sentiment":-0.6650000873},"380":{"company":"Shire","id":1524,"sentiment":0.2740000905},"381":{"company":"BHP Billiton","id":1525,"sentiment":-0.3557226206},"382":{"company":"ITV","id":1526,"sentiment":0.4620000251},"383":{"company":"Tesco","id":1527,"sentiment":0.0905968787},"384":{"company":"SABMiller","id":1528,"sentiment":0.1883186136},"385":{"company":"Royal Mail","id":1529,"sentiment":0.8280448831},"386":{"company":"London Stock Exchange Group","id":1530,"sentiment":-0.4019999775},"387":{"company":"Barclays","id":1531,"sentiment":-0.1134849637},"388":{"company":"Barclays","id":1532,"sentiment":0.3203776672},"389":{"company":"Tesco PLC","id":1533,"sentiment":0.0799998093},"390":{"company":"Coutts","id":1534,"sentiment":-0.2105790844},"391":{"company":"Credit Suisse","id":1535,"sentiment":-0.0310000043},"392":{"company":"HSBC","id":1536,"sentiment":-0.133725305},"393":{"company":"Glencore","id":1537,"sentiment":-0.2116433257},"394":{"company":"Fresnillo","id":1538,"sentiment":0.4614139934},"395":{"company":"UBS","id":1539,"sentiment":-0.2105790844},"396":{"company":"Banco BPI","id":1540,"sentiment":0.1849997133},"397":{"company":"Tesco PLC","id":1541,"sentiment":0.3036417036},"398":{"company":"Tesco PLC","id":1542,"sentiment":-0.1579999959},"399":{"company":"Mid Wales","id":1543,"sentiment":-0.4764999792},"400":{"company":"Aviva plc","id":1544,"sentiment":-0.0899999434},"401":{"company":"Thomson","id":1545,"sentiment":-0.5999999927},"402":{"company":"Shell","id":1546,"sentiment":0.0769256853},"403":{"company":"Barclays","id":1547,"sentiment":-0.3285745708},"404":{"company":"Blinkbox","id":1548,"sentiment":0.1360000046},"405":{"company":"Centrica PLC","id":1549,"sentiment":0.4104999952},"406":{"company":"Aggreko","id":1550,"sentiment":0.4014643604},"407":{"company":"SABMiller","id":1551,"sentiment":-0.1788476845},"408":{"company":"G4S","id":1552,"sentiment":-0.2536558096},"409":{"company":"Royal Dutch Shell","id":1553,"sentiment":0.2522654608},"410":{"company":"Imperial Tobacco","id":1554,"sentiment":0.634851083},"411":{"company":"Shell","id":1555,"sentiment":-0.0360000379},"412":{"company":"Sage","id":1556,"sentiment":0.3859999931},"413":{"company":"AB InBev","id":1557,"sentiment":0.4369999604},"414":{"company":"Tesco PLC","id":1558,"sentiment":0.1360000046},"415":{"company":"BP","id":1559,"sentiment":-0.6329321284},"416":{"company":"Schroders","id":1560,"sentiment":0.5897966909},"417":{"company":"London Stock Exchange Group","id":1561,"sentiment":-0.3731041795},"418":{"company":"Old Mutual","id":1562,"sentiment":-0.4596917711},"419":{"company":"Royal Mail","id":1563,"sentiment":0.0281271934},"420":{"company":"Wells Fargo","id":1564,"sentiment":0.3823999886},"421":{"company":"Easyjet","id":1565,"sentiment":-0.0239189426},"422":{"company":"Barclays","id":1566,"sentiment":0.2408198087},"423":{"company":"AstraZeneca","id":1567,"sentiment":0.2279070962},"424":{"company":"Barclays","id":1568,"sentiment":-0.0517808487},"425":{"company":"Tesco PLC","id":1569,"sentiment":0.4543414042},"426":{"company":"BAE Systems","id":1570,"sentiment":0.181034072},"427":{"company":"L&G","id":1571,"sentiment":0.0601074997},"428":{"company":"BP","id":1572,"sentiment":-0.2493878386},"429":{"company":"Barclays","id":1573,"sentiment":-0.2554873857},"430":{"company":"London Stock Exchange Group","id":1574,"sentiment":0.146000004},"431":{"company":"BP","id":1575,"sentiment":-0.0838672876},"432":{"company":"Lloyds Banking Group PLC","id":1576,"sentiment":-0.7110581843},"433":{"company":"PwC","id":1577,"sentiment":-0.5279999771},"434":{"company":"Tesco PLC","id":1578,"sentiment":0.0107936561},"435":{"company":"SABMiller","id":1579,"sentiment":0.3497175585},"436":{"company":"Shire","id":1580,"sentiment":-0.2130733707},"437":{"company":"Dixons Carphone","id":1581,"sentiment":0.309566376},"438":{"company":"BG Group","id":1582,"sentiment":0.0769256853},"439":{"company":"Royal Bank of Scotland Group plc","id":1583,"sentiment":-0.6357336787},"440":{"company":"EasyJet","id":1584,"sentiment":0.4024731579},"441":{"company":"Standard Life","id":1585,"sentiment":0.2426159341},"442":{"company":"Persimmon","id":1586,"sentiment":0.6083297856},"443":{"company":"Standard Life","id":1587,"sentiment":0.0214222573},"444":{"company":"Shire","id":1588,"sentiment":0.2299999734},"445":{"company":"Tesco PLC","id":1589,"sentiment":-0.1372418896},"446":{"company":"Tesco PLC","id":1590,"sentiment":0.4861080899},"447":{"company":"Lloyds","id":1591,"sentiment":-0.0754279437},"448":{"company":"BP","id":1592,"sentiment":0.5315998933},"449":{"company":"Glaxo","id":1593,"sentiment":0.1198249139},"450":{"company":"British American Tobacco plc","id":1594,"sentiment":-0.1238587515},"451":{"company":"Meggitt","id":1595,"sentiment":-0.0558035302},"452":{"company":"AstraZeneca","id":1596,"sentiment":0.1408896715},"453":{"company":"Tesco PLC","id":1597,"sentiment":0.2198096928},"454":{"company":"Barclays","id":1598,"sentiment":-0.0851008206},"455":{"company":"Valeant Pharmaceuticals International","id":1599,"sentiment":0.2256695351},"456":{"company":"Morrisons","id":1600,"sentiment":-0.0891130401},"457":{"company":"Shoeders","id":1601,"sentiment":0.0777663587},"458":{"company":"Lloyds Banking Group PLC","id":1602,"sentiment":-0.3163326426},"459":{"company":"Tullow Oil","id":1603,"sentiment":-0.2262399715},"460":{"company":"Glencore","id":1604,"sentiment":-0.2813943335},"461":{"company":"WPP","id":1605,"sentiment":0.0512521436},"462":{"company":"G4S","id":1606,"sentiment":0.5905011807},"463":{"company":"Diageo","id":1607,"sentiment":0.0089474369},"464":{"company":"Glencore","id":1608,"sentiment":0.7740694375},"465":{"company":"AstraZeneca","id":1609,"sentiment":-0.3485641425},"466":{"company":"Crown Castle","id":1610,"sentiment":0.3660000787},"467":{"company":"Persimmon","id":1611,"sentiment":0.6242322267},"468":{"company":"Morrisons","id":1612,"sentiment":-0.0423360565},"469":{"company":"Barclays","id":1613,"sentiment":-0.5079999988},"470":{"company":"GlaxoSmithKline","id":1614,"sentiment":-0.4480001219},"471":{"company":"Petrofac","id":1615,"sentiment":0.4483040551},"472":{"company":"Economist Group","id":1616,"sentiment":0.4300000116},"473":{"company":"Glencore","id":1617,"sentiment":0.1922351196},"474":{"company":"SABMiller","id":1618,"sentiment":0.6172455392},"475":{"company":"Barclays","id":1619,"sentiment":-0.3533049592},"476":{"company":"AstraZeneca","id":1620,"sentiment":0.3716923122},"477":{"company":"AstraZeneca","id":1621,"sentiment":0.4103115483},"478":{"company":"Giraffe","id":1622,"sentiment":0.0189999663},"479":{"company":"Royal Bank of Scotland Group plc","id":1623,"sentiment":-0.9654940713},"480":{"company":"Whitbread","id":1624,"sentiment":0.3249590278},"481":{"company":"Actelion","id":1625,"sentiment":0.3449999993},"482":{"company":"Ashtead","id":1626,"sentiment":-0.4120512062},"483":{"company":"Royal Bank of Scotland Group plc","id":1627,"sentiment":0.3209999699},"484":{"company":"Premier Foods","id":1628,"sentiment":-0.0000000739},"485":{"company":"Barclays","id":1629,"sentiment":-0.1944081337},"486":{"company":"Barclays","id":1630,"sentiment":-0.51150997},"487":{"company":"Barclays","id":1631,"sentiment":-0.5528414168},"488":{"company":"Glencore","id":1632,"sentiment":0.3102059274},"489":{"company":"GSK","id":1633,"sentiment":0.263999965},"490":{"company":"AstraZeneca","id":1634,"sentiment":0.0660000276}}
+[
+ {
+  "Company": "Ashtead", 
+  "Id": 1144, 
+  "Sentiment": 0.8138452268583476
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1145, 
+  "Sentiment": 0.5041436766421434
+ }, 
+ {
+  "Company": "Prudential", 
+  "Id": 1146, 
+  "Sentiment": -0.4702081613696588
+ }, 
+ {
+  "Company": "GlaxoSmithKline", 
+  "Id": 1147, 
+  "Sentiment": -0.221466285290499
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1148, 
+  "Sentiment": -0.9345889654050263
+ }, 
+ {
+  "Company": "Diageo", 
+  "Id": 1149, 
+  "Sentiment": 0.4149999698011793
+ }, 
+ {
+  "Company": "Borealis Infrastructure", 
+  "Id": 1150, 
+  "Sentiment": 0.21400001923618228
+ }, 
+ {
+  "Company": "Burberry Group plc", 
+  "Id": 1151, 
+  "Sentiment": -0.36890351655474657
+ }, 
+ {
+  "Company": "Deutsche Boerse", 
+  "Id": 1152, 
+  "Sentiment": 0.19074856372851723
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1153, 
+  "Sentiment": 0.03754889567000513
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1154, 
+  "Sentiment": 0.2579999671080054
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1155, 
+  "Sentiment": 0.5301011984155024
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1156, 
+  "Sentiment": -0.28391286726717946
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1157, 
+  "Sentiment": -0.5883921095020683
+ }, 
+ {
+  "Company": "ITV", 
+  "Id": 1158, 
+  "Sentiment": 0.04504232050249583
+ }, 
+ {
+  "Company": "AdeS", 
+  "Id": 1159, 
+  "Sentiment": 0.2760000181483335
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1160, 
+  "Sentiment": -0.6773244117946075
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1161, 
+  "Sentiment": -0.6758261836771835
+ }, 
+ {
+  "Company": "Hargreaves Lansdown", 
+  "Id": 1162, 
+  "Sentiment": 0.1301021047059668
+ }, 
+ {
+  "Company": "MOVANTIK", 
+  "Id": 1163, 
+  "Sentiment": 0.29489786743822277
+ }, 
+ {
+  "Company": "EasyJet", 
+  "Id": 1164, 
+  "Sentiment": 0.21118438554162894
+ }, 
+ {
+  "Company": "WPP", 
+  "Id": 1165, 
+  "Sentiment": 0.2989999732510914
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1166, 
+  "Sentiment": 0.3578402840246704
+ }, 
+ {
+  "Company": "Travis Perkins", 
+  "Id": 1167, 
+  "Sentiment": 0.5417921101764298
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1168, 
+  "Sentiment": 0.3280000077852179
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1169, 
+  "Sentiment": 0.5984924299498996
+ }, 
+ {
+  "Company": "Acerta", 
+  "Id": 1170, 
+  "Sentiment": 0.2840000337069079
+ }, 
+ {
+  "Company": "Associated British Foods", 
+  "Id": 1171, 
+  "Sentiment": 0.2818442602260566
+ }, 
+ {
+  "Company": "Pearson Jones", 
+  "Id": 1172, 
+  "Sentiment": 0.01793647908168882
+ }, 
+ {
+  "Company": "Bunzl", 
+  "Id": 1173, 
+  "Sentiment": 0.4355929503491409
+ }, 
+ {
+  "Company": "Goldman Sachs", 
+  "Id": 1174, 
+  "Sentiment": -0.06999998870813823
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1175, 
+  "Sentiment": -0.45200000391469
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1176, 
+  "Sentiment": -0.8371835942461964
+ }, 
+ {
+  "Company": "Rolls-Royce", 
+  "Id": 1177, 
+  "Sentiment": 0.6777545734961169
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1178, 
+  "Sentiment": -0.7306258497800008
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1179, 
+  "Sentiment": -0.06072913187934425
+ }, 
+ {
+  "Company": "ZS Pharma", 
+  "Id": 1180, 
+  "Sentiment": 0.5830000105403285
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1181, 
+  "Sentiment": 0.021974446957946682
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1182, 
+  "Sentiment": -0.31853933931635564
+ }, 
+ {
+  "Company": "Legal & General Group Plc", 
+  "Id": 1183, 
+  "Sentiment": 0.611669995555947
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1184, 
+  "Sentiment": 0.10967596666160925
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1185, 
+  "Sentiment": 0.48900345037903303
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1186, 
+  "Sentiment": 0.23890301336807732
+ }, 
+ {
+  "Company": "Petrofac", 
+  "Id": 1187, 
+  "Sentiment": -0.7891438362006766
+ }, 
+ {
+  "Company": "Legal & General Group Plc", 
+  "Id": 1188, 
+  "Sentiment": 0.37900003953458056
+ }, 
+ {
+  "Company": "BG Group", 
+  "Id": 1189, 
+  "Sentiment": -0.34499989922125873
+ }, 
+ {
+  "Company": "Smiths Group", 
+  "Id": 1190, 
+  "Sentiment": 0.3522901069272898
+ }, 
+ {
+  "Company": "Aspen", 
+  "Id": 1191, 
+  "Sentiment": 0.3950000049389873
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1192, 
+  "Sentiment": -0.13720855543177166
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1193, 
+  "Sentiment": -0.39517476097296317
+ }, 
+ {
+  "Company": "EasyJet", 
+  "Id": 1194, 
+  "Sentiment": 0.07341114453908684
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1195, 
+  "Sentiment": -0.4439999828217243
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1196, 
+  "Sentiment": -0.5770156715848697
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1197, 
+  "Sentiment": -0.35347871164520495
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1198, 
+  "Sentiment": 0.43093627273130647
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1199, 
+  "Sentiment": 0.014714932563290838
+ }, 
+ {
+  "Company": "Burberry", 
+  "Id": 1200, 
+  "Sentiment": -0.13224748785785784
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1201, 
+  "Sentiment": -0.5246112980138089
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1202, 
+  "Sentiment": 0.2895325871822427
+ }, 
+ {
+  "Company": "Antofagasta", 
+  "Id": 1203, 
+  "Sentiment": -0.09432794223034818
+ }, 
+ {
+  "Company": "CaixaBank", 
+  "Id": 1204, 
+  "Sentiment": -0.09200002597227352
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1205, 
+  "Sentiment": -0.0639999863093069
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1206, 
+  "Sentiment": 0.01793647908168882
+ }, 
+ {
+  "Company": "Aer Lingus", 
+  "Id": 1207, 
+  "Sentiment": 0.3149999775228865
+ }, 
+ {
+  "Company": "Pure Food", 
+  "Id": 1208, 
+  "Sentiment": 0.0127162393259685
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1209, 
+  "Sentiment": -0.7919519392044455
+ }, 
+ {
+  "Company": "BAT", 
+  "Id": 1210, 
+  "Sentiment": -0.15200002849135208
+ }, 
+ {
+  "Company": "Kingfisher", 
+  "Id": 1211, 
+  "Sentiment": -0.04598478041963051
+ }, 
+ {
+  "Company": "BHP Billiton", 
+  "Id": 1212, 
+  "Sentiment": -0.5871924778350882
+ }, 
+ {
+  "Company": "Chime Communications", 
+  "Id": 1213, 
+  "Sentiment": 0.40775481334495867
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1214, 
+  "Sentiment": 0.11107483453817704
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1215, 
+  "Sentiment": 0.30849999681275736
+ }, 
+ {
+  "Company": "JP Morgan", 
+  "Id": 1216, 
+  "Sentiment": 1.5235580512473756e-08
+ }, 
+ {
+  "Company": "BG Group", 
+  "Id": 1217, 
+  "Sentiment": -0.11649996523361542
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1218, 
+  "Sentiment": 0.31424192092368247
+ }, 
+ {
+  "Company": "Petrofac", 
+  "Id": 1219, 
+  "Sentiment": 0.2831538907535946
+ }, 
+ {
+  "Company": "ShelL", 
+  "Id": 1220, 
+  "Sentiment": -0.6094515762123222
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1221, 
+  "Sentiment": -0.37803320356380854
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1222, 
+  "Sentiment": -0.573479238246302
+ }, 
+ {
+  "Company": "Acerta", 
+  "Id": 1223, 
+  "Sentiment": -0.9435164025239668
+ }, 
+ {
+  "Company": "M&G Investments", 
+  "Id": 1224, 
+  "Sentiment": -0.7819999874262509
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1225, 
+  "Sentiment": 0.8469999897529719
+ }, 
+ {
+  "Company": "Kingfisher", 
+  "Id": 1226, 
+  "Sentiment": -0.43420990760480416
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1227, 
+  "Sentiment": -0.9220266804853758
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1228, 
+  "Sentiment": -0.3700402031919656
+ }, 
+ {
+  "Company": "Aviva plc", 
+  "Id": 1229, 
+  "Sentiment": -0.44453460715184445
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1230, 
+  "Sentiment": -0.1579999212720739
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1231, 
+  "Sentiment": -0.4167883230733996
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1232, 
+  "Sentiment": 0.5459279269968199
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1233, 
+  "Sentiment": 0.14838778625214544
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1234, 
+  "Sentiment": 0.037740278951660704
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1235, 
+  "Sentiment": 0.5007130489238275
+ }, 
+ {
+  "Company": "Johnson Matthey", 
+  "Id": 1236, 
+  "Sentiment": -0.4379997923139565
+ }, 
+ {
+  "Company": "Berkshire Hathaway Inc.", 
+  "Id": 1237, 
+  "Sentiment": 0.022999949438364732
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1238, 
+  "Sentiment": 0.2749998994939447
+ }, 
+ {
+  "Company": "Baxalta", 
+  "Id": 1239, 
+  "Sentiment": 0.4870000361898333
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1240, 
+  "Sentiment": 0.23762053642919703
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1241, 
+  "Sentiment": 0.033687532970924576
+ }, 
+ {
+  "Company": "Persimmon", 
+  "Id": 1242, 
+  "Sentiment": 1.5608523673283046
+ }, 
+ {
+  "Company": "Standard Chartered PLC", 
+  "Id": 1243, 
+  "Sentiment": -0.2926513032876252
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1244, 
+  "Sentiment": 0.5949896948008606
+ }, 
+ {
+  "Company": "GlaxoSmithKline", 
+  "Id": 1245, 
+  "Sentiment": -0.015585206166133396
+ }, 
+ {
+  "Company": "Credit Suisse", 
+  "Id": 1246, 
+  "Sentiment": -0.428449338151503
+ }, 
+ {
+  "Company": "Aberdeen Asset Management", 
+  "Id": 1247, 
+  "Sentiment": 0.6834906701958787
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1248, 
+  "Sentiment": 0.08830329886538679
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1249, 
+  "Sentiment": 0.11899997514133678
+ }, 
+ {
+  "Company": "Legal & General Group Plc", 
+  "Id": 1250, 
+  "Sentiment": -0.0001516050936024374
+ }, 
+ {
+  "Company": "Berkshire Hathaway Inc.", 
+  "Id": 1251, 
+  "Sentiment": -0.590896695573487
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1252, 
+  "Sentiment": 0.4037848820158577
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1253, 
+  "Sentiment": -0.07870372456355026
+ }, 
+ {
+  "Company": "G4S", 
+  "Id": 1254, 
+  "Sentiment": 0.6563455302249338
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1255, 
+  "Sentiment": -0.3399999497856068
+ }, 
+ {
+  "Company": "Cairn Homes", 
+  "Id": 1256, 
+  "Sentiment": 0.3072071498017515
+ }, 
+ {
+  "Company": "Standard Chartered PLC", 
+  "Id": 1257, 
+  "Sentiment": 0.14933623521317438
+ }, 
+ {
+  "Company": "Blinkbox", 
+  "Id": 1258, 
+  "Sentiment": 0.03754889567000513
+ }, 
+ {
+  "Company": "BG Group", 
+  "Id": 1259, 
+  "Sentiment": -0.4702081613696588
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1260, 
+  "Sentiment": 0.5160000216250173
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1261, 
+  "Sentiment": -0.6184422806242396
+ }, 
+ {
+  "Company": "Smiths Group", 
+  "Id": 1262, 
+  "Sentiment": 0.2576722527184043
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1263, 
+  "Sentiment": -0.5545882183987622
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1264, 
+  "Sentiment": -0.08026772729673917
+ }, 
+ {
+  "Company": "Ashtead", 
+  "Id": 1265, 
+  "Sentiment": -0.8863500219768782
+ }, 
+ {
+  "Company": "Dixons Carphone", 
+  "Id": 1266, 
+  "Sentiment": 0.29500004656697865
+ }, 
+ {
+  "Company": "San Miguel", 
+  "Id": 1267, 
+  "Sentiment": 0.40850004220886516
+ }, 
+ {
+  "Company": "Lehman", 
+  "Id": 1268, 
+  "Sentiment": 0.35822518484169036
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1269, 
+  "Sentiment": 0.1038963145924543
+ }, 
+ {
+  "Company": "Financial Times", 
+  "Id": 1270, 
+  "Sentiment": 0.2619999686254565
+ }, 
+ {
+  "Company": "Berkshire Hathaway Inc.", 
+  "Id": 1271, 
+  "Sentiment": 0.5569476553657312
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1272, 
+  "Sentiment": 0.20801991344732546
+ }, 
+ {
+  "Company": "CRH", 
+  "Id": 1273, 
+  "Sentiment": 0.34283282401411375
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1274, 
+  "Sentiment": 0.39200004289823814
+ }, 
+ {
+  "Company": "Rio Tinto", 
+  "Id": 1275, 
+  "Sentiment": 0.8665368062637097
+ }, 
+ {
+  "Company": "WWP", 
+  "Id": 1276, 
+  "Sentiment": 0.3113930809658762
+ }, 
+ {
+  "Company": "Standard Chartered", 
+  "Id": 1277, 
+  "Sentiment": -7.903439222523012e-10
+ }, 
+ {
+  "Company": "Kingfisher", 
+  "Id": 1278, 
+  "Sentiment": -0.6229480560482353
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1279, 
+  "Sentiment": -0.5424967623095207
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1280, 
+  "Sentiment": -0.5225374088547158
+ }, 
+ {
+  "Company": "London Stock Exchange Group", 
+  "Id": 1281, 
+  "Sentiment": 0.058062987693947764
+ }, 
+ {
+  "Company": "National Grid", 
+  "Id": 1282, 
+  "Sentiment": 0.9651433645294848
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1283, 
+  "Sentiment": -0.23151355917394906
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1284, 
+  "Sentiment": -0.0943358510222568
+ }, 
+ {
+  "Company": "Standard Chartered PLC", 
+  "Id": 1285, 
+  "Sentiment": -0.5008460807307862
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1286, 
+  "Sentiment": -0.5109840937447729
+ }, 
+ {
+  "Company": "Ocwen", 
+  "Id": 1287, 
+  "Sentiment": -0.6024228425362297
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1288, 
+  "Sentiment": 0.029161914563948614
+ }, 
+ {
+  "Company": "ARM Holdings plc", 
+  "Id": 1289, 
+  "Sentiment": 0.0315000032720416
+ }, 
+ {
+  "Company": "Tesco", 
+  "Id": 1290, 
+  "Sentiment": 0.13084835182715
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1291, 
+  "Sentiment": 0.398149947386227
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1292, 
+  "Sentiment": -0.18821366435114972
+ }, 
+ {
+  "Company": "Volkswagen", 
+  "Id": 1293, 
+  "Sentiment": -0.5681445158485212
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1294, 
+  "Sentiment": 0.3299999527910205
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1295, 
+  "Sentiment": 0.2820368897030353
+ }, 
+ {
+  "Company": "ExxonMobil", 
+  "Id": 1296, 
+  "Sentiment": -0.07101722218761111
+ }, 
+ {
+  "Company": "AXA", 
+  "Id": 1297, 
+  "Sentiment": 0.14800004031081682
+ }, 
+ {
+  "Company": "Randgold Resources", 
+  "Id": 1298, 
+  "Sentiment": 0.05318130187967939
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1299, 
+  "Sentiment": -0.43933351518680497
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1300, 
+  "Sentiment": -0.0744786890664304
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1301, 
+  "Sentiment": -0.25413103294641826
+ }, 
+ {
+  "Company": "Wolseley", 
+  "Id": 1302, 
+  "Sentiment": 0.34423748374833624
+ }, 
+ {
+  "Company": "Juno", 
+  "Id": 1303, 
+  "Sentiment": 0.037657792032338114
+ }, 
+ {
+  "Company": "Bloomberg", 
+  "Id": 1304, 
+  "Sentiment": -0.22291522356824828
+ }, 
+ {
+  "Company": "Berkshire Hathaway Inc.", 
+  "Id": 1305, 
+  "Sentiment": 0.2519984122125496
+ }, 
+ {
+  "Company": "Unilever", 
+  "Id": 1306, 
+  "Sentiment": 0.395563049937825
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1307, 
+  "Sentiment": 0.22607796619639176
+ }, 
+ {
+  "Company": "IBM", 
+  "Id": 1308, 
+  "Sentiment": 0.3359999713796047
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1309, 
+  "Sentiment": -0.9459577026970756
+ }, 
+ {
+  "Company": "Direct Line Insurance Group PLC", 
+  "Id": 1310, 
+  "Sentiment": 1.0360866864732938
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1311, 
+  "Sentiment": 0.23762053642919703
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1312, 
+  "Sentiment": 0.2584535021098014
+ }, 
+ {
+  "Company": "Whitbread", 
+  "Id": 1313, 
+  "Sentiment": -0.0280181287721928
+ }, 
+ {
+  "Company": "BG Group", 
+  "Id": 1314, 
+  "Sentiment": 0.250000056771176
+ }, 
+ {
+  "Company": "EasyJet", 
+  "Id": 1315, 
+  "Sentiment": -0.07444031693720243
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1316, 
+  "Sentiment": -0.7739463677561775
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1317, 
+  "Sentiment": 0.16657181529991674
+ }, 
+ {
+  "Company": "Lidl", 
+  "Id": 1318, 
+  "Sentiment": 0.43374999371208406
+ }, 
+ {
+  "Company": "Prudential", 
+  "Id": 1319, 
+  "Sentiment": 0.04286226330215036
+ }, 
+ {
+  "Company": "Pearson", 
+  "Id": 1320, 
+  "Sentiment": -0.3630395878753411
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1321, 
+  "Sentiment": 0.032180714055920955
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1322, 
+  "Sentiment": -0.7238498071509761
+ }, 
+ {
+  "Company": "Banco BPI", 
+  "Id": 1323, 
+  "Sentiment": 0.012932743371701343
+ }, 
+ {
+  "Company": "Berkshire Hathaway Inc.", 
+  "Id": 1324, 
+  "Sentiment": -0.07102664527864169
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1325, 
+  "Sentiment": 0.3170000751615021
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1326, 
+  "Sentiment": 0.13284400599001042
+ }, 
+ {
+  "Company": "ITV", 
+  "Id": 1327, 
+  "Sentiment": 0.15889460521280468
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1328, 
+  "Sentiment": 0.08059448116119336
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1329, 
+  "Sentiment": -0.1645895887273183
+ }, 
+ {
+  "Company": "National Grid", 
+  "Id": 1330, 
+  "Sentiment": 0.3189521070148824
+ }, 
+ {
+  "Company": "Samarco", 
+  "Id": 1331, 
+  "Sentiment": -0.2849999373458366
+ }, 
+ {
+  "Company": "Kinder Morgan", 
+  "Id": 1332, 
+  "Sentiment": 0.188999972417002
+ }, 
+ {
+  "Company": "Weir Group", 
+  "Id": 1333, 
+  "Sentiment": -0.3442894208415146
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1334, 
+  "Sentiment": -0.48831087172418
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1335, 
+  "Sentiment": -0.31319562164609954
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1336, 
+  "Sentiment": 0.246277716431746
+ }, 
+ {
+  "Company": "Aviva plc", 
+  "Id": 1337, 
+  "Sentiment": -0.3008862370360308
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1338, 
+  "Sentiment": 0.18465699389936738
+ }, 
+ {
+  "Company": "Aviva", 
+  "Id": 1339, 
+  "Sentiment": 0.19999990028457693
+ }, 
+ {
+  "Company": "Acerta", 
+  "Id": 1340, 
+  "Sentiment": 0.3720001089589126
+ }, 
+ {
+  "Company": "Halfords", 
+  "Id": 1341, 
+  "Sentiment": 0.12867355691403778
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1342, 
+  "Sentiment": -0.3249927778294263
+ }, 
+ {
+  "Company": "ITV", 
+  "Id": 1343, 
+  "Sentiment": 0.013553619416968359
+ }, 
+ {
+  "Company": "Wells Fargo", 
+  "Id": 1344, 
+  "Sentiment": 0.3139999626935931
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1345, 
+  "Sentiment": 0.47965914460161285
+ }, 
+ {
+  "Company": "Standard Chartered PLC", 
+  "Id": 1346, 
+  "Sentiment": -0.45608253776105356
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1347, 
+  "Sentiment": -0.26102847048345557
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1348, 
+  "Sentiment": 0.3259999652502284
+ }, 
+ {
+  "Company": "Amazon", 
+  "Id": 1349, 
+  "Sentiment": 0.3890000439170346
+ }, 
+ {
+  "Company": "BT Group", 
+  "Id": 1350, 
+  "Sentiment": -0.05005951800643483
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1351, 
+  "Sentiment": -0.3424719843937479
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1352, 
+  "Sentiment": 0.4127588026238712
+ }, 
+ {
+  "Company": "Daiichi Sankyo", 
+  "Id": 1353, 
+  "Sentiment": 0.29489786743822277
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1354, 
+  "Sentiment": -0.1408822065776915
+ }, 
+ {
+  "Company": "Deutsche Boerse", 
+  "Id": 1355, 
+  "Sentiment": 0.35800005931013246
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1356, 
+  "Sentiment": 0.15024050944645506
+ }, 
+ {
+  "Company": "Direct Line Insurance Group PLC", 
+  "Id": 1357, 
+  "Sentiment": 0.3239999343074627
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1358, 
+  "Sentiment": 0.36899994308612605
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1359, 
+  "Sentiment": -0.39936297682085586
+ }, 
+ {
+  "Company": "Samarco", 
+  "Id": 1360, 
+  "Sentiment": -0.44653857054554025
+ }, 
+ {
+  "Company": "Persimmon", 
+  "Id": 1361, 
+  "Sentiment": 1.1135684765022908
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1362, 
+  "Sentiment": 0.013451439613579023
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1363, 
+  "Sentiment": -0.37328725758273196
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1364, 
+  "Sentiment": 0.4358704301726562
+ }, 
+ {
+  "Company": "Meggitt", 
+  "Id": 1365, 
+  "Sentiment": -0.7410314611232034
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1366, 
+  "Sentiment": -0.44858482657226095
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1367, 
+  "Sentiment": -0.4014999875283465
+ }, 
+ {
+  "Company": "Springleaf", 
+  "Id": 1368, 
+  "Sentiment": 0.28299996515451
+ }, 
+ {
+  "Company": "Centrica PLC", 
+  "Id": 1369, 
+  "Sentiment": -0.47780507408273964
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1370, 
+  "Sentiment": 0.3491995601302857
+ }, 
+ {
+  "Company": "Asahi", 
+  "Id": 1371, 
+  "Sentiment": 0.6996205482641935
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1372, 
+  "Sentiment": -0.1630636753106474
+ }, 
+ {
+  "Company": "Rio Tinto", 
+  "Id": 1373, 
+  "Sentiment": -0.6397379335301269
+ }, 
+ {
+  "Company": "RBS", 
+  "Id": 1374, 
+  "Sentiment": -0.2655084047845012
+ }, 
+ {
+  "Company": "Germanwings", 
+  "Id": 1375, 
+  "Sentiment": 0.09600000558037866
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1376, 
+  "Sentiment": 0.5118760862470964
+ }, 
+ {
+  "Company": "Dixons Carphone", 
+  "Id": 1377, 
+  "Sentiment": -0.09993395807641006
+ }, 
+ {
+  "Company": "Bunzl", 
+  "Id": 1378, 
+  "Sentiment": -0.37707196187168446
+ }, 
+ {
+  "Company": "Standard Chartered", 
+  "Id": 1379, 
+  "Sentiment": -0.7921571337946889
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1380, 
+  "Sentiment": 0.030353825743255812
+ }, 
+ {
+  "Company": "BHP Billiton", 
+  "Id": 1381, 
+  "Sentiment": -0.6332030717602907
+ }, 
+ {
+  "Company": "Admiral Group plc", 
+  "Id": 1382, 
+  "Sentiment": 0.3239999343074627
+ }, 
+ {
+  "Company": "Friends Life", 
+  "Id": 1383, 
+  "Sentiment": 0.18900010264309886
+ }, 
+ {
+  "Company": "Royal Dutch Shell", 
+  "Id": 1384, 
+  "Sentiment": 0.4597299914632468
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1385, 
+  "Sentiment": -0.4510000524983103
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1386, 
+  "Sentiment": 0.29489786743822277
+ }, 
+ {
+  "Company": "MillerCoors", 
+  "Id": 1387, 
+  "Sentiment": 0.014887145916303406
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1388, 
+  "Sentiment": -0.19132487181585378
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1389, 
+  "Sentiment": 0.2673481658217488
+ }, 
+ {
+  "Company": "Johnson Matthey", 
+  "Id": 1390, 
+  "Sentiment": 0.28600000429623024
+ }, 
+ {
+  "Company": "Prudential", 
+  "Id": 1391, 
+  "Sentiment": 0.6381166778786601
+ }, 
+ {
+  "Company": "MillerCoors", 
+  "Id": 1392, 
+  "Sentiment": 0.9922110191232083
+ }, 
+ {
+  "Company": "Volkswagen", 
+  "Id": 1393, 
+  "Sentiment": -0.07929774600142778
+ }, 
+ {
+  "Company": "Standard Chartered PLC", 
+  "Id": 1394, 
+  "Sentiment": -0.9843270400205505
+ }, 
+ {
+  "Company": "BG Group", 
+  "Id": 1395, 
+  "Sentiment": -0.2660001095100273
+ }, 
+ {
+  "Company": "London Stock Exchange Group", 
+  "Id": 1396, 
+  "Sentiment": 0.19074856372851723
+ }, 
+ {
+  "Company": "Whitbread", 
+  "Id": 1397, 
+  "Sentiment": 0.0127162393259685
+ }, 
+ {
+  "Company": "Yorkshire", 
+  "Id": 1398, 
+  "Sentiment": 0.29899995620015163
+ }, 
+ {
+  "Company": "ICE", 
+  "Id": 1399, 
+  "Sentiment": 0.32799991819330787
+ }, 
+ {
+  "Company": "LloydsPharmacy", 
+  "Id": 1400, 
+  "Sentiment": 0.23399994505947058
+ }, 
+ {
+  "Company": "Aviva plc", 
+  "Id": 1401, 
+  "Sentiment": 0.4985938042262258
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1402, 
+  "Sentiment": 0.2690000959584437
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1403, 
+  "Sentiment": 0.02129533950354546
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1404, 
+  "Sentiment": -0.5676810860028277
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1405, 
+  "Sentiment": -0.04351854279342444
+ }, 
+ {
+  "Company": "Johnson Matthey", 
+  "Id": 1406, 
+  "Sentiment": 0.01604724619660961
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1407, 
+  "Sentiment": 0.11524455057762237
+ }, 
+ {
+  "Company": "Britvic", 
+  "Id": 1408, 
+  "Sentiment": -0.007524325927254501
+ }, 
+ {
+  "Company": "Sainsbury's", 
+  "Id": 1409, 
+  "Sentiment": -0.6426514552316916
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1410, 
+  "Sentiment": 0.7964955589643551
+ }, 
+ {
+  "Company": "Standard Chartered", 
+  "Id": 1411, 
+  "Sentiment": -0.5359999586815758
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1412, 
+  "Sentiment": -0.04994876720311781
+ }, 
+ {
+  "Company": "Royal Bank of Scotland", 
+  "Id": 1413, 
+  "Sentiment": 0.24999998105181875
+ }, 
+ {
+  "Company": "Persimmon", 
+  "Id": 1414, 
+  "Sentiment": 0.5245736448499563
+ }, 
+ {
+  "Company": "Kingfisher", 
+  "Id": 1415, 
+  "Sentiment": 0.6831669912743975
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1416, 
+  "Sentiment": 0.06199079403857377
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1417, 
+  "Sentiment": 0.4030921866139073
+ }, 
+ {
+  "Company": "Deutsche Boerse", 
+  "Id": 1418, 
+  "Sentiment": 0.40599986920610903
+ }, 
+ {
+  "Company": "Sainsbury's", 
+  "Id": 1419, 
+  "Sentiment": -0.5676879427801776
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1420, 
+  "Sentiment": 0.9077326668191463
+ }, 
+ {
+  "Company": "Baxalta", 
+  "Id": 1421, 
+  "Sentiment": 0.48877441436508484
+ }, 
+ {
+  "Company": "Costa", 
+  "Id": 1422, 
+  "Sentiment": -0.5619999515367903
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1423, 
+  "Sentiment": 0.30845485886912494
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1424, 
+  "Sentiment": -0.6167997713868446
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1425, 
+  "Sentiment": 0.08982017431779127
+ }, 
+ {
+  "Company": "Berkshire Hathaway", 
+  "Id": 1426, 
+  "Sentiment": 0.29695789755206314
+ }, 
+ {
+  "Company": "ZS Pharma", 
+  "Id": 1427, 
+  "Sentiment": 0.5509999222410721
+ }, 
+ {
+  "Company": "Weir Group", 
+  "Id": 1428, 
+  "Sentiment": 0.16097423724669035
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1429, 
+  "Sentiment": 0.6192760099826783
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1430, 
+  "Sentiment": 0.22817522327495557
+ }, 
+ {
+  "Company": "Rio Tinto", 
+  "Id": 1431, 
+  "Sentiment": 0.5549231152845451
+ }, 
+ {
+  "Company": "Cypress Semiconductor", 
+  "Id": 1432, 
+  "Sentiment": 0.4610000402761832
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1433, 
+  "Sentiment": -0.160629924737078
+ }, 
+ {
+  "Company": "Comcast", 
+  "Id": 1434, 
+  "Sentiment": 0.6110000065504921
+ }, 
+ {
+  "Company": "InterContinental Hotels Group", 
+  "Id": 1435, 
+  "Sentiment": -0.07799999513505967
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1436, 
+  "Sentiment": -0.9378228487341818
+ }, 
+ {
+  "Company": "Intertek Group", 
+  "Id": 1437, 
+  "Sentiment": 0.015026512105340332
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1438, 
+  "Sentiment": 0.08399996819644956
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1439, 
+  "Sentiment": 0.7333925275485159
+ }, 
+ {
+  "Company": "CR Laurence", 
+  "Id": 1440, 
+  "Sentiment": 0.34283282401411375
+ }, 
+ {
+  "Company": "Direct Line Insurance Group PLC", 
+  "Id": 1441, 
+  "Sentiment": -0.044647376742734717
+ }, 
+ {
+  "Company": "BAE Systems", 
+  "Id": 1442, 
+  "Sentiment": 0.28485879300396816
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1443, 
+  "Sentiment": 0.41598887336183765
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1444, 
+  "Sentiment": -0.5639998938760805
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1445, 
+  "Sentiment": 0.2679999898604117
+ }, 
+ {
+  "Company": "WPP", 
+  "Id": 1446, 
+  "Sentiment": -0.43114865677315395
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1447, 
+  "Sentiment": -1.155662326887106
+ }, 
+ {
+  "Company": "Reed Elsevier", 
+  "Id": 1448, 
+  "Sentiment": -0.12148018205944958
+ }, 
+ {
+  "Company": "L&G", 
+  "Id": 1449, 
+  "Sentiment": 0.41965873352754274
+ }, 
+ {
+  "Company": "CaixaBank", 
+  "Id": 1450, 
+  "Sentiment": 0.22100000166582862
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1451, 
+  "Sentiment": 0.3120252464731742
+ }, 
+ {
+  "Company": "Legal & General Group Plc", 
+  "Id": 1452, 
+  "Sentiment": 0.0883008747513505
+ }, 
+ {
+  "Company": "ITV", 
+  "Id": 1453, 
+  "Sentiment": -0.6029660043119653
+ }, 
+ {
+  "Company": "ConAgra", 
+  "Id": 1454, 
+  "Sentiment": 0.09999991700076347
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1455, 
+  "Sentiment": 0.19699988656483952
+ }, 
+ {
+  "Company": "London Stock Exchange Group", 
+  "Id": 1456, 
+  "Sentiment": 0.2740873261262529
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1457, 
+  "Sentiment": 0.2231090328854725
+ }, 
+ {
+  "Company": "Land Securities", 
+  "Id": 1458, 
+  "Sentiment": 0.7370436265946556
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1459, 
+  "Sentiment": -0.6273017516778884
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1460, 
+  "Sentiment": -0.28458068982865226
+ }, 
+ {
+  "Company": "Krispy Kreme", 
+  "Id": 1461, 
+  "Sentiment": 0.13084835182715
+ }, 
+ {
+  "Company": "Amazon", 
+  "Id": 1462, 
+  "Sentiment": 0.33463368797564463
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1463, 
+  "Sentiment": -0.37947607468347355
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1464, 
+  "Sentiment": -0.3465255777257601
+ }, 
+ {
+  "Company": "Johnson Matthey", 
+  "Id": 1465, 
+  "Sentiment": 0.08658403069239762
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1466, 
+  "Sentiment": 0.4680000398464567
+ }, 
+ {
+  "Company": "J Sainsbury plc", 
+  "Id": 1467, 
+  "Sentiment": -0.5789999413346086
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1468, 
+  "Sentiment": -0.7771730112678455
+ }, 
+ {
+  "Company": "Daiichi Sankyo", 
+  "Id": 1469, 
+  "Sentiment": 0.36899994308612605
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1470, 
+  "Sentiment": 0.014237859172728677
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1471, 
+  "Sentiment": 0.4152371442155214
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1472, 
+  "Sentiment": -0.24199997950572272
+ }, 
+ {
+  "Company": "Centrica PLC", 
+  "Id": 1473, 
+  "Sentiment": 0.6846187738491635
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1474, 
+  "Sentiment": -0.7406965297956598
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1475, 
+  "Sentiment": -0.1101422764572588
+ }, 
+ {
+  "Company": "WWP", 
+  "Id": 1476, 
+  "Sentiment": 0.005572405584803881
+ }, 
+ {
+  "Company": "EasyJet", 
+  "Id": 1477, 
+  "Sentiment": 0.32602776905320746
+ }, 
+ {
+  "Company": "Smiths Group", 
+  "Id": 1478, 
+  "Sentiment": 0.10981603817401867
+ }, 
+ {
+  "Company": "Gazprom", 
+  "Id": 1479, 
+  "Sentiment": 0.20149997795697427
+ }, 
+ {
+  "Company": "BHP Billiton", 
+  "Id": 1480, 
+  "Sentiment": -0.5840000004584638
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1481, 
+  "Sentiment": -0.2776964259598912
+ }, 
+ {
+  "Company": "SunRay", 
+  "Id": 1482, 
+  "Sentiment": -0.7022858371473382
+ }, 
+ {
+  "Company": "Aberdeen Asset Management", 
+  "Id": 1483, 
+  "Sentiment": -0.09170430980249117
+ }, 
+ {
+  "Company": "United Utilities", 
+  "Id": 1484, 
+  "Sentiment": -0.07419876052975038
+ }, 
+ {
+  "Company": "BHP Billiton", 
+  "Id": 1485, 
+  "Sentiment": 0.2089998955294105
+ }, 
+ {
+  "Company": "Standard Chartered PLC", 
+  "Id": 1486, 
+  "Sentiment": 0.15295944481138907
+ }, 
+ {
+  "Company": "Tesco", 
+  "Id": 1487, 
+  "Sentiment": 0.26000004514691916
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1488, 
+  "Sentiment": 0.10392569905668894
+ }, 
+ {
+  "Company": "Great Portland Estates plc", 
+  "Id": 1489, 
+  "Sentiment": 0.1295000064605617
+ }, 
+ {
+  "Company": "Zurich Insurance", 
+  "Id": 1490, 
+  "Sentiment": 0.37600002722089965
+ }, 
+ {
+  "Company": "RBS", 
+  "Id": 1491, 
+  "Sentiment": 0.35299998008668343
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1492, 
+  "Sentiment": -0.4250125752495202
+ }, 
+ {
+  "Company": "Imperial Tobacco", 
+  "Id": 1493, 
+  "Sentiment": -0.01717533394333002
+ }, 
+ {
+  "Company": "Deutsche Telekom", 
+  "Id": 1494, 
+  "Sentiment": -0.10864509981068576
+ }, 
+ {
+  "Company": "Takeda", 
+  "Id": 1495, 
+  "Sentiment": 0.3692473627351912
+ }, 
+ {
+  "Company": "ARM Holdings plc", 
+  "Id": 1496, 
+  "Sentiment": 0.05514285395739085
+ }, 
+ {
+  "Company": "Aviva plc", 
+  "Id": 1497, 
+  "Sentiment": 0.18349997742516
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1498, 
+  "Sentiment": 0.3704343645607986
+ }, 
+ {
+  "Company": "Intertain", 
+  "Id": 1499, 
+  "Sentiment": 0.377363756223549
+ }, 
+ {
+  "Company": "Dixons Carphone", 
+  "Id": 1500, 
+  "Sentiment": 0.3288368095218528
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1501, 
+  "Sentiment": 0.45199994914221175
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1502, 
+  "Sentiment": 0.1435576748887872
+ }, 
+ {
+  "Company": "Morrissons", 
+  "Id": 1503, 
+  "Sentiment": -1.0227139012040871
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1504, 
+  "Sentiment": -0.7406965297956598
+ }, 
+ {
+  "Company": "BHP", 
+  "Id": 1505, 
+  "Sentiment": -0.536830958747479
+ }, 
+ {
+  "Company": "Carnival Corporation", 
+  "Id": 1506, 
+  "Sentiment": -0.19614596717177935
+ }, 
+ {
+  "Company": "Wilshire Bancorp", 
+  "Id": 1507, 
+  "Sentiment": 0.4930000345451649
+ }, 
+ {
+  "Company": "Heinz", 
+  "Id": 1508, 
+  "Sentiment": 0.21399996327496346
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1509, 
+  "Sentiment": -0.22222971386187362
+ }, 
+ {
+  "Company": "Unilever", 
+  "Id": 1510, 
+  "Sentiment": -0.18305493981263835
+ }, 
+ {
+  "Company": "Citigroup", 
+  "Id": 1511, 
+  "Sentiment": 0.28299996515451
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1512, 
+  "Sentiment": -0.24533331913704742
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1513, 
+  "Sentiment": -0.758694172916334
+ }, 
+ {
+  "Company": "Sainsbury's", 
+  "Id": 1514, 
+  "Sentiment": -0.070228533541525
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1515, 
+  "Sentiment": 0.7681531964697695
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1516, 
+  "Sentiment": 0.9468209573565114
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1517, 
+  "Sentiment": 0.23531799419507177
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1518, 
+  "Sentiment": -0.4467749059540804
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1519, 
+  "Sentiment": -0.3741484055636543
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1520, 
+  "Sentiment": 0.00048750563685548073
+ }, 
+ {
+  "Company": "Tesco", 
+  "Id": 1521, 
+  "Sentiment": 0.3113930809658762
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1522, 
+  "Sentiment": -0.058077124330253756
+ }, 
+ {
+  "Company": "BHP Billiton", 
+  "Id": 1523, 
+  "Sentiment": -0.6650000781167281
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1524, 
+  "Sentiment": 0.27400000859619333
+ }, 
+ {
+  "Company": "BHP Billiton", 
+  "Id": 1525, 
+  "Sentiment": -0.15294701168769212
+ }, 
+ {
+  "Company": "ITV", 
+  "Id": 1526, 
+  "Sentiment": 0.4619998460114898
+ }, 
+ {
+  "Company": "Tesco", 
+  "Id": 1527, 
+  "Sentiment": 0.2175742612970359
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1528, 
+  "Sentiment": 0.4165751412572353
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1529, 
+  "Sentiment": 0.9468209573565114
+ }, 
+ {
+  "Company": "London Stock Exchange Group", 
+  "Id": 1530, 
+  "Sentiment": -0.4020000075145062
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1531, 
+  "Sentiment": -0.12835055085163122
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1532, 
+  "Sentiment": 0.35822518484169036
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1533, 
+  "Sentiment": 0.07999994260711163
+ }, 
+ {
+  "Company": "Coutts", 
+  "Id": 1534, 
+  "Sentiment": -0.3249927778294263
+ }, 
+ {
+  "Company": "Credit Suisse", 
+  "Id": 1535, 
+  "Sentiment": -0.03099999878847945
+ }, 
+ {
+  "Company": "HSBC", 
+  "Id": 1536, 
+  "Sentiment": -0.5598764850692275
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1537, 
+  "Sentiment": -0.0909333372490079
+ }, 
+ {
+  "Company": "Fresnillo", 
+  "Id": 1538, 
+  "Sentiment": 0.5256772759976998
+ }, 
+ {
+  "Company": "UBS", 
+  "Id": 1539, 
+  "Sentiment": -0.3249927778294263
+ }, 
+ {
+  "Company": "Banco BPI", 
+  "Id": 1540, 
+  "Sentiment": 0.18499997858324846
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1541, 
+  "Sentiment": 0.46940975295319076
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1542, 
+  "Sentiment": -0.15799985785445347
+ }, 
+ {
+  "Company": "Mid Wales", 
+  "Id": 1543, 
+  "Sentiment": -0.47650000659909575
+ }, 
+ {
+  "Company": "Aviva plc", 
+  "Id": 1544, 
+  "Sentiment": -0.08999992683791802
+ }, 
+ {
+  "Company": "Thomson", 
+  "Id": 1545, 
+  "Sentiment": -0.5999999917711532
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1546, 
+  "Sentiment": 0.16566706139645215
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1547, 
+  "Sentiment": -0.5735121357884453
+ }, 
+ {
+  "Company": "Blinkbox", 
+  "Id": 1548, 
+  "Sentiment": 0.13599999362740978
+ }, 
+ {
+  "Company": "Centrica PLC", 
+  "Id": 1549, 
+  "Sentiment": 0.4104999790643425
+ }, 
+ {
+  "Company": "Aggreko", 
+  "Id": 1550, 
+  "Sentiment": 0.44681994757680327
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1551, 
+  "Sentiment": -0.7877193859888545
+ }, 
+ {
+  "Company": "G4S", 
+  "Id": 1552, 
+  "Sentiment": -0.572476874900644
+ }, 
+ {
+  "Company": "Royal Dutch Shell", 
+  "Id": 1553, 
+  "Sentiment": 0.15967758972552598
+ }, 
+ {
+  "Company": "Imperial Tobacco", 
+  "Id": 1554, 
+  "Sentiment": 0.3873472326737867
+ }, 
+ {
+  "Company": "Shell", 
+  "Id": 1555, 
+  "Sentiment": -0.03599992226263574
+ }, 
+ {
+  "Company": "Sage", 
+  "Id": 1556, 
+  "Sentiment": 0.385999995283153
+ }, 
+ {
+  "Company": "AB InBev", 
+  "Id": 1557, 
+  "Sentiment": 0.43699991041779906
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1558, 
+  "Sentiment": 0.13599999362740978
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1559, 
+  "Sentiment": -0.7577587721485365
+ }, 
+ {
+  "Company": "Schroders", 
+  "Id": 1560, 
+  "Sentiment": 0.6496700911207746
+ }, 
+ {
+  "Company": "London Stock Exchange Group", 
+  "Id": 1561, 
+  "Sentiment": -0.44858482657226095
+ }, 
+ {
+  "Company": "Old Mutual", 
+  "Id": 1562, 
+  "Sentiment": -0.48129928058724425
+ }, 
+ {
+  "Company": "Royal Mail", 
+  "Id": 1563, 
+  "Sentiment": 0.28601176496160435
+ }, 
+ {
+  "Company": "Wells Fargo", 
+  "Id": 1564, 
+  "Sentiment": 0.3823999857431998
+ }, 
+ {
+  "Company": "Easyjet", 
+  "Id": 1565, 
+  "Sentiment": 0.016960746727482615
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1566, 
+  "Sentiment": 0.12725170196813568
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1567, 
+  "Sentiment": 0.15972468449287303
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1568, 
+  "Sentiment": -0.22291522356824828
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1569, 
+  "Sentiment": 0.6441672257262538
+ }, 
+ {
+  "Company": "BAE Systems", 
+  "Id": 1570, 
+  "Sentiment": 0.2518332616686026
+ }, 
+ {
+  "Company": "L&G", 
+  "Id": 1571, 
+  "Sentiment": 0.12958536470341248
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1572, 
+  "Sentiment": -0.34174429964657554
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1573, 
+  "Sentiment": -0.27328162107272547
+ }, 
+ {
+  "Company": "London Stock Exchange Group", 
+  "Id": 1574, 
+  "Sentiment": 0.14599992964969166
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1575, 
+  "Sentiment": -0.30147623991342026
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1576, 
+  "Sentiment": -0.6321668009536296
+ }, 
+ {
+  "Company": "PwC", 
+  "Id": 1577, 
+  "Sentiment": -0.5279999929525032
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1578, 
+  "Sentiment": 0.30157489754769656
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1579, 
+  "Sentiment": 0.1038963145924543
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1580, 
+  "Sentiment": -0.1221495496780591
+ }, 
+ {
+  "Company": "Dixons Carphone", 
+  "Id": 1581, 
+  "Sentiment": 0.2673481658217488
+ }, 
+ {
+  "Company": "BG Group", 
+  "Id": 1582, 
+  "Sentiment": 0.16566706139645215
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1583, 
+  "Sentiment": -0.19548685146609962
+ }, 
+ {
+  "Company": "EasyJet", 
+  "Id": 1584, 
+  "Sentiment": 0.7254640277551736
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1585, 
+  "Sentiment": 0.7326355167690917
+ }, 
+ {
+  "Company": "Persimmon", 
+  "Id": 1586, 
+  "Sentiment": 0.3984022184950405
+ }, 
+ {
+  "Company": "Standard Life", 
+  "Id": 1587, 
+  "Sentiment": 0.014714932563290838
+ }, 
+ {
+  "Company": "Shire", 
+  "Id": 1588, 
+  "Sentiment": 0.23000006233872133
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1589, 
+  "Sentiment": -0.2633933834558467
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1590, 
+  "Sentiment": 0.3512095067172636
+ }, 
+ {
+  "Company": "Lloyds", 
+  "Id": 1591, 
+  "Sentiment": 0.11011364473455096
+ }, 
+ {
+  "Company": "BP", 
+  "Id": 1592, 
+  "Sentiment": 0.5316001079167931
+ }, 
+ {
+  "Company": "Glaxo", 
+  "Id": 1593, 
+  "Sentiment": 0.22776698381093402
+ }, 
+ {
+  "Company": "British American Tobacco plc", 
+  "Id": 1594, 
+  "Sentiment": -0.5762691342898587
+ }, 
+ {
+  "Company": "Meggitt", 
+  "Id": 1595, 
+  "Sentiment": 0.3349962148814335
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1596, 
+  "Sentiment": 0.037657792032338114
+ }, 
+ {
+  "Company": "Tesco PLC", 
+  "Id": 1597, 
+  "Sentiment": 0.5255006532760058
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1598, 
+  "Sentiment": 0.052051884342059644
+ }, 
+ {
+  "Company": "Valeant Pharmaceuticals International", 
+  "Id": 1599, 
+  "Sentiment": 0.46762151469652613
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1600, 
+  "Sentiment": -0.19595052441600963
+ }, 
+ {
+  "Company": "Shoeders", 
+  "Id": 1601, 
+  "Sentiment": -0.3078675163399266
+ }, 
+ {
+  "Company": "Lloyds Banking Group PLC", 
+  "Id": 1602, 
+  "Sentiment": 0.11549207459629163
+ }, 
+ {
+  "Company": "Tullow Oil", 
+  "Id": 1603, 
+  "Sentiment": -0.1791522220381109
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1604, 
+  "Sentiment": -0.150668096424042
+ }, 
+ {
+  "Company": "WPP", 
+  "Id": 1605, 
+  "Sentiment": 0.40775481334495867
+ }, 
+ {
+  "Company": "G4S", 
+  "Id": 1606, 
+  "Sentiment": 0.6624045756537462
+ }, 
+ {
+  "Company": "Diageo", 
+  "Id": 1607, 
+  "Sentiment": 0.5295789508797014
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1608, 
+  "Sentiment": 0.8547581090274899
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1609, 
+  "Sentiment": -0.40534760069235787
+ }, 
+ {
+  "Company": "Crown Castle", 
+  "Id": 1610, 
+  "Sentiment": 0.36600001303506574
+ }, 
+ {
+  "Company": "Persimmon", 
+  "Id": 1611, 
+  "Sentiment": 0.8219420403896345
+ }, 
+ {
+  "Company": "Morrisons", 
+  "Id": 1612, 
+  "Sentiment": -0.2756292527484163
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1613, 
+  "Sentiment": -0.5080000955215898
+ }, 
+ {
+  "Company": "GlaxoSmithKline", 
+  "Id": 1614, 
+  "Sentiment": -0.44800020400507456
+ }, 
+ {
+  "Company": "Petrofac", 
+  "Id": 1615, 
+  "Sentiment": 0.11438208846821749
+ }, 
+ {
+  "Company": "Economist Group", 
+  "Id": 1616, 
+  "Sentiment": 0.43000003805560716
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1617, 
+  "Sentiment": 0.13751798292183978
+ }, 
+ {
+  "Company": "SABMiller", 
+  "Id": 1618, 
+  "Sentiment": 0.6996205482641935
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1619, 
+  "Sentiment": -0.47469414690000056
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1620, 
+  "Sentiment": 0.3692473627351912
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1621, 
+  "Sentiment": 0.40079084643997687
+ }, 
+ {
+  "Company": "Giraffe", 
+  "Id": 1622, 
+  "Sentiment": 0.01900000264798791
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1623, 
+  "Sentiment": -0.9471234437112981
+ }, 
+ {
+  "Company": "Whitbread", 
+  "Id": 1624, 
+  "Sentiment": 0.494980324814208
+ }, 
+ {
+  "Company": "Actelion", 
+  "Id": 1625, 
+  "Sentiment": 0.3449999670491915
+ }, 
+ {
+  "Company": "Ashtead", 
+  "Id": 1626, 
+  "Sentiment": 0.05710749504421555
+ }, 
+ {
+  "Company": "Royal Bank of Scotland Group plc", 
+  "Id": 1627, 
+  "Sentiment": 0.3209999267378965
+ }, 
+ {
+  "Company": "Premier Foods", 
+  "Id": 1628, 
+  "Sentiment": -4.205659577538601e-09
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1629, 
+  "Sentiment": -0.08723232208554796
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1630, 
+  "Sentiment": -0.4246145361980743
+ }, 
+ {
+  "Company": "Barclays", 
+  "Id": 1631, 
+  "Sentiment": -0.6652286465518483
+ }, 
+ {
+  "Company": "Glencore", 
+  "Id": 1632, 
+  "Sentiment": 0.3793361277501892
+ }, 
+ {
+  "Company": "GSK", 
+  "Id": 1633, 
+  "Sentiment": 0.2639999369818602
+ }, 
+ {
+  "Company": "AstraZeneca", 
+  "Id": 1634, 
+  "Sentiment": 0.06599996619781076
+ }
+]

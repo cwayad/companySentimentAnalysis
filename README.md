@@ -6,9 +6,19 @@ This repo contains an application of some regression classifiers, in order to le
 the steps from laoding data, preprocessing the training and test sets, applying the regression classifier on the first and predicting the sentiment score on the second set are contained in this file.
 
 2- Word2VecUtility.py :
- Contains the Word2VecUtility function taking as input the headline 'or any raw text' and returns a list of words with deleting the stop and non letter words.
+ Contains different functions that preprocess the headlines and output a list of words
 
 
-## Next Steps
+run main.py for a test
+
+
+# Requirements
+
+    python 3
+    NLTK
+        download punkt model from nltk
+        download stopwords corpora from nltk.
+            you can download them by typing nlkt.download() in your python3 console
+
 
 
