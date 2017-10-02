@@ -9,7 +9,7 @@ the steps from laoding data, preprocessing the training and test sets, applying 
  Contains different functions that preprocess the headlines and output a list of words
 
 
-run main.py for a test
+* run main.py for a test
 
 
 # Requirements
